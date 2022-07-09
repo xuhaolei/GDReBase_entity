@@ -1,0 +1,10 @@
+__pycache__
+.idea
+
+*.xlsx
+*.zip
+*.csv
+*.w2v
+*.embed
+*.pkl
+*.pth
